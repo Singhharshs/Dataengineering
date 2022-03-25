@@ -1,0 +1,9 @@
+empno,empname,dept,salary,manager
+1,A,IT,12000,C
+2,B,IT,14000,C
+3,C,IT,15000,E
+4,D,IT,15500,E
+5,E,HR,16000,F
+6,F,HR,17000,H
+7,G,HM,18000,H
+8,H,HM,20000,D
